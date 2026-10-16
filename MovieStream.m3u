@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="yesnetwork.us" tvg-name="US: Yes Network" tvg-logo="https://logo.m3uassets.com/yesnetwork.png" group-title="US Sports",US: Yes Network
-https://soursignal.com/1012187236/c1ew4OxCFx/200155102
-#EXTINF:-1 tvg-id="" tvg-name="US: ADULT SWIM" tvg-logo="https://logo.m3uassets.com/adultswim.png" group-title="US Entertainment",US: ADULT SWIM
-https://soursignal.com/1012187236/c1ew4OxCFx/400124730
-#EXTINF:-1 tvg-id="" tvg-name="US: TRUTV" tvg-logo="https://logo.m3uassets.com/trutv.png" group-title="US Entertainment",US: TRUTV
-https://soursignal.com/1012187236/c1ew4OxCFx/400124824
-#EXTINF:-1 tvg-id="" tvg-name="US: SYFY" tvg-logo="https://logo.m3uassets.com/syfy.png" group-title="US Entertainment",US: SYFY
-https://soursignal.com/1012187236/c1ew4OxCFx/400124812
 #EXTINF:-1 tvg-id="24/7 Star Trek Movie Collection [VIP]" tvg-name="24/7 Star Trek Movie Collection [VIP]" tvg-logo="https://logo.m3uassets.com/moviestar.png" group-title="24/7 Movies",24/7 Star Trek Movie Collection [VIP]
 https://soursignal.com/1012187236/c1ew4OxCFx/800000671
 #EXTINF:-1 tvg-id="24/7 The Hobbit And Lord Of TheRings Movie Collection [VIP]" tvg-name="24/7 The Hobbit And Lord Of TheRings Movie Collection [VIP]" tvg-logo="https://logo.m3uassets.com/247halloween.png" group-title="24/7 Movies",24/7 The Hobbit And Lord Of TheRings Movie Collection [VIP]
@@ -31,19 +23,5 @@ https://soursignal.com/1012187236/c1ew4OxCFx/800000679
 https://soursignal.com/1012187236/c1ew4OxCFx/800000592
 #EXTINF:-1 tvg-id="24/7 Ong Bak Movie Collection [VIP]" tvg-name="24/7 Ong Bak Movie Collection [VIP]" tvg-logo="" group-title="24/7 Movies",24/7 Ong Bak Movie Collection [VIP]
 https://soursignal.com/1012187236/c1ew4OxCFx/800000627
-#EXTINF:-1 tvg-id="" tvg-name="EPL : Manchester Utd" tvg-logo="https://logo.m3uassets.com/manchesterutdtv.png" group-title="EPL Premier League",EPL : Manchester Utd
-https://soursignal.com/1012187236/c1ew4OxCFx/600011282
 #EXTINF:-1 tvg-id="24/7 Jurassic Park Movie Collection [VIP]" tvg-name="24/7 Jurassic Park Movie Collection [VIP]" tvg-logo="https://logo.m3uassets.com/247jurassicpark.png" group-title="24/7 Movies",24/7 Jurassic Park Movie Collection [VIP]
 https://soursignal.com/1012187236/c1ew4OxCFx/800000600
-#EXTINF:-1 tvg-id="mlbnet.us" tvg-name="US MLB Network (S)" tvg-logo="https://logo.m3uassets.com/mlbnetwork.png" group-title="MLB Baseball league",US MLB Network (S)
-https://soursignal.com/1012187236/c1ew4OxCFx/5925
-#EXTINF:-1 tvg-id="" tvg-name="US (MLB) New York Yankees (S)" tvg-logo="" group-title="MLB Baseball league",US (MLB) New York Yankees (S)
-https://soursignal.com/1012187236/c1ew4OxCFx/139871
-#EXTINF:-1 tvg-id="" tvg-name="US (MLB) Arizona Diamondbacks (S)" tvg-logo="" group-title="MLB Baseball league",US (MLB) Arizona Diamondbacks (S)
-https://soursignal.com/1012187236/c1ew4OxCFx/139853
-#EXTINF:-1 tvg-id="" tvg-name="(NFL) Los Angeles Chargers (P)" tvg-logo="" group-title="NFL",(NFL) Los Angeles Chargers (P)
-https://soursignal.com/1012187236/c1ew4OxCFx/159843
-#EXTINF:-1 tvg-id="" tvg-name="(NFL) Arizona Cardinals (P)" tvg-logo="" group-title="NFL",(NFL) Arizona Cardinals (P)
-https://soursignal.com/1012187236/c1ew4OxCFx/159822
-#EXTINF:-1 tvg-id="" tvg-name="(US) (Prime) Classic Doctor Who" tvg-logo="" group-title="US Amazon Prime Linear",(US) (Prime) Classic Doctor Who
-https://soursignal.com/1012187236/c1ew4OxCFx/700020150
